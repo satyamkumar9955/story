@@ -1,0 +1,16 @@
+#box{background-color:rgb(10, 10, 161);}
+#box{color:rgb(255,  255, 255);}
+.heading{color:red;}
+/* button{background-color:green;} */
+p{
+    text-align:start;
+    line-height:30px}
+h1{
+    font-size: 30px;
+    font-weight : 900;
+    text-decoration: double underline red;
+    text-align:center;
+}
+body{
+    background-color:antiquewhite;
+}
